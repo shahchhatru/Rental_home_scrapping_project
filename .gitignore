@@ -1,2 +1,4 @@
 Pipfile
 Pipfile.lock
+/dev-db-data
+/dev-db-data/*.*
